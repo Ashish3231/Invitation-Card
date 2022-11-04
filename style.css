@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Pacifico&family=Silkscreen&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 1000px;
+    height: 970px;
+    border: 10px solid brown;
+    padding: 20px 20px 20px 50px;
+    margin: 80px;
+    background-color: aqua;
+}
+.heading{
+    text-align: center;
+    font-family: cursive;
+    font-size: 18px;
+}
+h1{
+    text-decoration-style: dotted;
+    text-decoration-line: underline;
+    text-align: center;
+    color: brown;
+}
+h2{
+    font-family: 'Comforter Brush', cursive;
+    font-size: 40px;
+    letter-spacing: 0.4rem;
+    word-spacing: 200px;
+    text-align: center;
+    
+    
+}
+h3{
+    letter-spacing: 0.9999rem;
+    text-align: center;
+    text-indent: 18px;
+    
+    text-decoration-color: green;
+}
+.date{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: underline;
+    text-decoration-color: green;
+    background-color: yellow;
+}
+.sd{
+    text-indent: 145px;
+    word-spacing: 505px;
+    font-family:  sans-serif;
+}
+.parent{
+    text-indent:75px;
+    word-spacing: 370px;
+}
+.place{
+    text-align: center;
+    text-indent: 10px;
+    letter-spacing: 0.333rem;
+    word-spacing: 30px;
+    font-weight: bold;
+}
+.place1{
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+ .wait{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+}
+.vinit{
+    word-spacing: 530px;
+    text-indent: 15px;
+    line-height: 1.4;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+
+.name{
+    font-family: sans-serif;
+    display: inline-block;
+    width: 80%;
+}
+.name1{
+    font-family: sans-serif;
+    
+}
+.name2{
+    font-family: sans-serif;
+    display: inline-block;
+    width: 83%;
+}
+.name3{
+    font-family: sans-serif;
+    
+}
